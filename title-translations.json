@@ -1,0 +1,29 @@
+{
+    "about-me": {
+        "en": "About Me",
+        "zh-Hans": "关于我",
+        "zh-Hant": "關於我",
+        "ja": "私について",
+        "de": "Über Mich",
+        "tto": "aCmqSqv",
+        "tto-bro": "YQFRHOei Z72"
+    },
+    "about-site": {
+        "en": "About This Website",
+        "zh-Hans": "建站小记",
+        "zh-Hant": "建站小記",
+        "ja": "サイト開発随筆",
+        "de": "Über Diese Webseite",
+        "tto": "aCmqSqCRem",
+        "tto-bro": "YeiH3DlQaV3 CeaF2Yd3"
+    },
+    "qiange": {
+        "en": "How to help the deceased",
+        "zh-Hans": "如何帮助逝者",
+        "zh-Hant": "如何幫助逝者",
+        "ja": "亡き人をどう助けられる",
+        "de": "Wie man dem Verstorbenen helfen kann",
+        "tto": "CaeeR",
+        "tto-bro": "HMeiX87 bRZG8ei3 T8eaQ3TeR2"
+    }
+}
