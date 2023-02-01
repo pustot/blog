@@ -5,8 +5,10 @@
         "zh-Hant": "關於我",
         "ja": "私について",
         "de": "Über Mich",
-        "tto": "aCmqSqv",
-        "tto-bro": "YQFRHOei Z72"
+        "tto": "aCLqSqv",
+        "tto-bro": "YQnrHOei Zm2",
+        "ko": "나에 대해서",
+        "fr": "À Propos de Moi"
     },
     "about-site": {
         "en": "About This Website",
@@ -14,8 +16,10 @@
         "zh-Hant": "建站小記",
         "ja": "サイト開発随筆",
         "de": "Über Diese Webseite",
-        "tto": "aCmqSqCRem",
-        "tto-bro": "YeiH3DlQaV3 CeaF2Yd3"
+        "tto": "aCLqSqCreL",
+        "tto-bro": "YeiH3DlQaV3 Cean2Yd3",
+        "ko": "이 웹사이트 정보",
+        "fr": "À Propos de ce Site Web"
     },
     "qiange": {
         "en": "How to help the deceased",
@@ -23,8 +27,10 @@
         "zh-Hant": "如何幫助逝者",
         "ja": "亡き人をどう助けられる",
         "de": "Wie man dem Verstorbenen helfen kann",
-        "tto": "CaeeR",
-        "tto-bro": "HMeiX87 bRZG8ei3 T8eaQ3TeR2"
+        "tto": "Caeer",
+        "tto-bro": "HMeiX8m brZG8ei3 T8eaQ3Ter2",
+        "ko": "고인을 돕는 방법",
+        "fr": "Comment aider le défunt"
     },
     "kunmingese-note-1": {
         "en": "Kunming Dialect Learning Notes 1 - Intro and Tones in Monosyllabic and Bisyllabic Words",
@@ -32,8 +38,10 @@
         "zh-Hant": "昆明話學習筆記 1 - 簡介、單字調、雙字調",
         "ja": "昆明方言学習ノート１：紹介と単音節の声調と二音節の声調",
         "de": "Notizen für Kunminger Dialekt 1 - Einführung und Töne in einsilbigen und zweisilbigen Wörtern",
-        "tto": "Yd D AFRHVeHXFR e - aCm, DaF3 aH 9d3 YN e omN YN He",
-        "tto-bro": "YoHVQeLZX8QFRQ3 X8Q7Adeh bQemYd3 Oem - YQaH2YQae3, DRH98d3D8aF3, WQ7Z98d3D8aF3"
+        "tto": "Yd D AnrHVeHXnr e - aCL, Dan3 aH 9d3 YN e oLN YN He",
+        "tto-bro": "YoHVQecZX8QnrQ3 X8QmAdeh bQeLYd3 OeL - YQaH2YQae3, DrH98d3D8an3, WQmZ98d3D8an3",
+        "ko": "쿤밍 방언 학습 노트 1 - 단음절 및 두음절 단어의 서론 및 성조",
+        "fr": "Notes d'apprentissage du dialecte de Kunming 1 - Intro et tons dans les mots monosyllabiques et bisyllabiques"
     },
     "crazy-spelling": {
         "en": "What are some crazy letter combinations for pronunciation?",
@@ -41,7 +49,9 @@
         "zh-Hant": "有哪些離譜的字母組合讀音？",
         "ja": "どんな非常に変わった文字の組み合わせの発音がありますか？",
         "de": "Welche verrückten Buchstabenkombinationen gibt es für die Aussprache?",
-        "tto": "DFAQeV D 9oXih DN 9dVF e Seabo",
-        "tto-bro": "dF2 H72CeR Seabo2DaA 98d3VF29o2X8ih D8FAOQeV?"
+        "tto": "DnAQeV D 9oXih DN 9dVn e Seabo",
+        "tto-bro": "dn2 Hm2Cer Seabo2DaA 98d3Vn29o2X8ih D8nAOQeV?",
+        "ko": "무슨 특이한 문자 조합의 발음이 있습니까?",
+        "fr": "Quelles sont les combinaisons de lettres folles pour la prononciation?"
     }
 }
